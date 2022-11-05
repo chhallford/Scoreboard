@@ -1,0 +1,55 @@
+body {
+    background-color: #1B2440;
+}
+
+.container {
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    margin: 5px;
+    font-size: 40px;
+    font-family: Verdana;  
+    color: #EEEEEE;
+}
+
+p {
+    background-color: black;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin: 30px 70px;                                           
+    color: #F94F6D;                                      
+    padding: 10px 40px;
+    text-align: center;
+    font-size: 90px;
+    display: block;
+}
+
+.scoreboard {
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 18px;
+    justify-items: center;
+    margin: 5px 10px;
+    background-color: #1B2440;
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+
+.newGame-el {
+    color: #F94F6D;
+    font-family: Verdana;
+    font-size: 25px;
+    background-color: #1B2440;
+    border: 2px solid white;
+    padding: 0px;
+    margin: 50px auto;
+    text-align: center;
+    display: block;
+}
